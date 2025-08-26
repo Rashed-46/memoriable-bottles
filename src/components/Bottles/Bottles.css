@@ -2,3 +2,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+.bottles-cart {
+  border: 2px solid red;
+  margin-bottom: 50px;
+}
